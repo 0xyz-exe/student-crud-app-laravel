@@ -2,6 +2,22 @@
 
 A comprehensive Laravel-based student management system with full CRUD operations, search functionality, and validation.
 
+Repository: https://github.com/0xyz-exe/student-crud-app-laravel
+
+## Screenshots
+
+### Student Directory & Search
+![Student directory](docs/screenshots/01_students_list.png)
+
+### Student Profile Details
+![Student details](docs/screenshots/02_student_detail.png)
+
+### Create & Edit Student
+![Student form](docs/screenshots/03_student_form.png)
+
+### Authentication
+![Authentication](docs/screenshots/04_login.png)
+
 ## Features
 
 - ✅ User authentication (Laravel Breeze)
