@@ -6,17 +6,12 @@ Repository: https://github.com/0xyz-exe/student-crud-app-laravel
 
 ## Screenshots
 
-### Student Directory & Search
-![Student directory](docs/screenshots/01_students_list.png)
-
-### Student Profile Details
-![Student details](docs/screenshots/02_student_detail.png)
-
-### Create & Edit Student
-![Student form](docs/screenshots/03_student_form.png)
-
-### Authentication
-![Authentication](docs/screenshots/04_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Direktori Mahasiswa & Pencarian Terpadu**<br>Tabel master data mahasiswa lengkap dengan kolom Student ID, Nama, Email Kampus, Jurusan, IPK/GPA, fitur pencarian multi-parameter, dan aksi langsung | ![Direktori Mahasiswa & Pencarian Terpadu](docs/screenshots/01-dashboard-overview.png) |
+| **Formulir Pendaftaran Mahasiswa Baru**<br>Formulir pendaftaran mahasiswa baru dengan validasi field identitas, tanggal lahir, jenis kelamin, jurusan akademik, tahun angkatan, dan alamat tinggal | ![Formulir Pendaftaran Mahasiswa Baru](docs/screenshots/02-create-student-form.png) |
+| **Detail Profil Akademik Mahasiswa**<br>Halaman ringkasan profil mahasiswa komprehensif menampilkan data diri, riwayat pendaftaran, capaian IPK kumulatif, serta tombol tindakan kelola | ![Detail Profil Akademik Mahasiswa](docs/screenshots/03-student-detail-profile.png) |
+| **Manajemen & Pembaruan Data Mahasiswa**<br>Formulir edit data mahasiswa terisi otomatis (pre-filled) dengan validasi integritas unik NIM/ID dan email untuk pembaruan profil berkala | ![Manajemen & Pembaruan Data Mahasiswa](docs/screenshots/04-edit-student-management.png) |
 
 ## Features
 
